@@ -20,9 +20,6 @@ function About() {
             <li>
               <i className="fa-brands fa-github"></i> https://github.com/HarveyJRob
             </li>
-            <li>
-              <i className="fa-solid fa-envelope"></i> harvey.j.rob@gmail.com
-            </li>
           </ul>
         </article>
       </div>
