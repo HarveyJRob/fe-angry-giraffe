@@ -1,13 +1,19 @@
+import * as React from "react";
+import MenuItem from "@mui/material/MenuItem";
+import FormControl from "@mui/material/FormControl";
+import Select from "@mui/material/Select";
+
 const DropDown = ({ item, items, handleItemChange }) => {
   return (
-    <select value={item} onChange={handleItemChange}>
-      <option value=""> -- Select one -- </option>
-      {items.map((x) => (
-        <option key={x.id} value={x.id}>
-          {x.name}
-        </option>
-      ))}
-    </select>
+    <>
+      <Select value={item} displayEmpty onChange={handleItemChange}>
+        {items.map((x) => (
+          <MenuItem key={x.id} value={x.id}>
+            {x.name}
+          </MenuItem>
+        ))}
+      </Select>
+    </>
   );
 };
 
