@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fe-angry-giraffe/static/css/main.1da19104.css",
+    "main.js": "/fe-angry-giraffe/static/js/main.1da8b723.js",
+    "static/media/sanCrisAv_500.png": "/fe-angry-giraffe/static/media/sanCrisAv_500.e54290d438880031eb93.png",
+    "static/media/ncNewsFe_500.png": "/fe-angry-giraffe/static/media/ncNewsFe_500.9f2ab064c915c40be610.png",
+    "static/media/angryGiraffe_500_yellow.jpeg": "/fe-angry-giraffe/static/media/angryGiraffe_500_yellow.9ed3ce3b59eb75440bcc.jpeg",
+    "static/media/variant_500.png": "/fe-angry-giraffe/static/media/variant_500.c74277ba72c2a68a8c22.png",
+    "static/media/planetScranIt_500.png": "/fe-angry-giraffe/static/media/planetScranIt_500.3a8291183ce53b9ffdcc.png",
+    "static/media/ncNewsBe_500.png": "/fe-angry-giraffe/static/media/ncNewsBe_500.db3ed661735aeaed1c3b.png",
+    "static/media/angryGiraffe_500x300_grey.jpeg": "/fe-angry-giraffe/static/media/angryGiraffe_500x300_grey.df66cf3de6a7cf765438.jpeg",
+    "static/media/beetroot_500.jpg": "/fe-angry-giraffe/static/media/beetroot_500.0f9d61c04aff056b9bbc.jpg",
+    "static/media/scranPlan_500.png": "/fe-angry-giraffe/static/media/scranPlan_500.6ea48f2a9dd42bd5eaf5.png",
+    "index.html": "/fe-angry-giraffe/index.html",
+    "main.1da19104.css.map": "/fe-angry-giraffe/static/css/main.1da19104.css.map",
+    "main.1da8b723.js.map": "/fe-angry-giraffe/static/js/main.1da8b723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da19104.css",
+    "static/js/main.1da8b723.js"
+  ]
+}
