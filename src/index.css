@@ -83,11 +83,30 @@ a:active {
   text-decoration: none;
 }
 
+main .articleContainer-video {
+  width: 640px;
+  height: 360px; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+@media only screen and (max-width: 800px) {
+  main .articleContainer-video {
+    width: 400px;
+    height: 225px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  main .articleContainer-video {
+    width: 240px;
+    height: 135px;
+  }
+}
+
 #myBtn {
   display: none; /* Hidden by default */
   position: fixed; /* Fixed/sticky position */
   bottom: 100px; /* Place the button at the bottom of the page */
-  right: 30px; /* Place the button 30px from the right */
+  right: 40px; /* Place the button 30px from the right */
   z-index: 99; /* Make sure it does not overlap */
   border: none; /* Remove borders */
   outline: none; /* Remove outline */

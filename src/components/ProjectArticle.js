@@ -1,3 +1,9 @@
+// React
+import React from "react";
+
+// React Player
+import ReactPlayer from "react-player/lazy";
+
 // MUI
 import GitHubIcon from "@mui/icons-material/GitHub";
 import PublishIcon from "@mui/icons-material/Publish";
@@ -22,6 +28,13 @@ function ProjectArticle({ projectsData, value }) {
         <ChipArray input={projectsData[value].contributors} />
 
         <p>{projectsData[value].body}</p>
+
+        {projectsData[value].video && (
+          <div className="articleContainer-video">
+            <ReactPlayer url={projectsData[value].video} width="100%" height="100%" />
+          </div>
+        )}
+
         <List>
           {projectsData[value].repo.length > 0 && (
             <ListItem>
