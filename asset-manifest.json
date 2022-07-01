@@ -1,7 +1,20 @@
 {
   "files": {
-    "main.css": "/fe-angry-giraffe/static/css/main.1da19104.css",
-    "main.js": "/fe-angry-giraffe/static/js/main.1da8b723.js",
+    "main.css": "/fe-angry-giraffe/static/css/main.d6ceb1a4.css",
+    "main.js": "/fe-angry-giraffe/static/js/main.591604a1.js",
+    "reactPlayerYouTube.js": "/fe-angry-giraffe/static/js/reactPlayerYouTube.048b4e1c.chunk.js",
+    "reactPlayerSoundCloud.js": "/fe-angry-giraffe/static/js/reactPlayerSoundCloud.52807eea.chunk.js",
+    "reactPlayerVimeo.js": "/fe-angry-giraffe/static/js/reactPlayerVimeo.dfdc5110.chunk.js",
+    "reactPlayerFacebook.js": "/fe-angry-giraffe/static/js/reactPlayerFacebook.0a322958.chunk.js",
+    "reactPlayerStreamable.js": "/fe-angry-giraffe/static/js/reactPlayerStreamable.9db70ea7.chunk.js",
+    "reactPlayerWistia.js": "/fe-angry-giraffe/static/js/reactPlayerWistia.5df77761.chunk.js",
+    "reactPlayerTwitch.js": "/fe-angry-giraffe/static/js/reactPlayerTwitch.33231d4d.chunk.js",
+    "reactPlayerDailyMotion.js": "/fe-angry-giraffe/static/js/reactPlayerDailyMotion.770af2a0.chunk.js",
+    "reactPlayerMixcloud.js": "/fe-angry-giraffe/static/js/reactPlayerMixcloud.b14a5dc7.chunk.js",
+    "reactPlayerVidyard.js": "/fe-angry-giraffe/static/js/reactPlayerVidyard.83b5c99b.chunk.js",
+    "reactPlayerKaltura.js": "/fe-angry-giraffe/static/js/reactPlayerKaltura.4a9e2197.chunk.js",
+    "reactPlayerFilePlayer.js": "/fe-angry-giraffe/static/js/reactPlayerFilePlayer.d81cbe84.chunk.js",
+    "reactPlayerPreview.js": "/fe-angry-giraffe/static/js/reactPlayerPreview.acc95dc9.chunk.js",
     "static/media/sanCrisAv_500.png": "/fe-angry-giraffe/static/media/sanCrisAv_500.e54290d438880031eb93.png",
     "static/media/ncNewsFe_500.png": "/fe-angry-giraffe/static/media/ncNewsFe_500.9f2ab064c915c40be610.png",
     "static/media/angryGiraffe_500_yellow.jpeg": "/fe-angry-giraffe/static/media/angryGiraffe_500_yellow.9ed3ce3b59eb75440bcc.jpeg",
@@ -12,11 +25,24 @@
     "static/media/beetroot_500.jpg": "/fe-angry-giraffe/static/media/beetroot_500.0f9d61c04aff056b9bbc.jpg",
     "static/media/scranPlan_500.png": "/fe-angry-giraffe/static/media/scranPlan_500.6ea48f2a9dd42bd5eaf5.png",
     "index.html": "/fe-angry-giraffe/index.html",
-    "main.1da19104.css.map": "/fe-angry-giraffe/static/css/main.1da19104.css.map",
-    "main.1da8b723.js.map": "/fe-angry-giraffe/static/js/main.1da8b723.js.map"
+    "main.d6ceb1a4.css.map": "/fe-angry-giraffe/static/css/main.d6ceb1a4.css.map",
+    "main.591604a1.js.map": "/fe-angry-giraffe/static/js/main.591604a1.js.map",
+    "reactPlayerYouTube.048b4e1c.chunk.js.map": "/fe-angry-giraffe/static/js/reactPlayerYouTube.048b4e1c.chunk.js.map",
+    "reactPlayerSoundCloud.52807eea.chunk.js.map": "/fe-angry-giraffe/static/js/reactPlayerSoundCloud.52807eea.chunk.js.map",
+    "reactPlayerVimeo.dfdc5110.chunk.js.map": "/fe-angry-giraffe/static/js/reactPlayerVimeo.dfdc5110.chunk.js.map",
+    "reactPlayerFacebook.0a322958.chunk.js.map": "/fe-angry-giraffe/static/js/reactPlayerFacebook.0a322958.chunk.js.map",
+    "reactPlayerStreamable.9db70ea7.chunk.js.map": "/fe-angry-giraffe/static/js/reactPlayerStreamable.9db70ea7.chunk.js.map",
+    "reactPlayerWistia.5df77761.chunk.js.map": "/fe-angry-giraffe/static/js/reactPlayerWistia.5df77761.chunk.js.map",
+    "reactPlayerTwitch.33231d4d.chunk.js.map": "/fe-angry-giraffe/static/js/reactPlayerTwitch.33231d4d.chunk.js.map",
+    "reactPlayerDailyMotion.770af2a0.chunk.js.map": "/fe-angry-giraffe/static/js/reactPlayerDailyMotion.770af2a0.chunk.js.map",
+    "reactPlayerMixcloud.b14a5dc7.chunk.js.map": "/fe-angry-giraffe/static/js/reactPlayerMixcloud.b14a5dc7.chunk.js.map",
+    "reactPlayerVidyard.83b5c99b.chunk.js.map": "/fe-angry-giraffe/static/js/reactPlayerVidyard.83b5c99b.chunk.js.map",
+    "reactPlayerKaltura.4a9e2197.chunk.js.map": "/fe-angry-giraffe/static/js/reactPlayerKaltura.4a9e2197.chunk.js.map",
+    "reactPlayerFilePlayer.d81cbe84.chunk.js.map": "/fe-angry-giraffe/static/js/reactPlayerFilePlayer.d81cbe84.chunk.js.map",
+    "reactPlayerPreview.acc95dc9.chunk.js.map": "/fe-angry-giraffe/static/js/reactPlayerPreview.acc95dc9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1da19104.css",
-    "static/js/main.1da8b723.js"
+    "static/css/main.d6ceb1a4.css",
+    "static/js/main.591604a1.js"
   ]
 }
